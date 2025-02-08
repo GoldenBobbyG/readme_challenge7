@@ -1,0 +1,13 @@
+{
+  "name": "read me",
+  "description": "l",
+  "installation": "install",
+  "usage": "work",
+  "contribution": "none",
+  "test": "follow",
+  "license": [
+    "MIT"
+  ],
+  "github": "golden g ",
+  "questions": "stricklanmba2011@gmail.com"
+}
