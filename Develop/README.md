@@ -1,21 +1,21 @@
 
 # Title
-j
+Readme Challenge 7
 
 ## Description
-j
+A backend application that creates a Readme file for any user to use for a project.
 
 ## Installation
-j
+Install node.js and download the npm inquier package. Then go to the termanila and run node index.js.
 
 ## Usage
-j
+Read me file for Github. 
 
 ## Contribution
-j
+No current contributers other than myself.
 
 ## Tests
-j
+Please run throught the node.js terminal and type node index.js
 
 
 ## License
@@ -25,5 +25,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 
 ## Questions
-For any questions, please contact me at [kjjk](mailto:kjjk).
-You can also find more of my work at [jkjjkl](https://github.com/jkjjkl).
+For any questions, please contact me at [stricklandmba2011@gmail.com](mailto:stricklandmba2011@gmail.com).
+You can also find more of my work at [GoldenBobbyG](https://github.com/GoldenBobbyG).
